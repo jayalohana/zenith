@@ -15,6 +15,7 @@ export const metadata: Metadata = {
 };
 
 //daily commit
+//daily
 
 export default function RootLayout({
   children,
