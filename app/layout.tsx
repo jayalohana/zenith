@@ -14,8 +14,7 @@ export const metadata: Metadata = {
   description: "An AI powered image generator",
 };
 
-//daily commit
-//daily
+
 
 export default function RootLayout({
   children,
