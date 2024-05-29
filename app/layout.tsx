@@ -8,7 +8,7 @@ const IBMPlex = IBM_Plex_Sans({
   weight: ["400", "500", "600", "700"],
   variable: "--font-ibm-plex",
 });
-
+//commit
 export const metadata: Metadata = {
   title: "Zenith",
   description: "An AI powered image generator",
