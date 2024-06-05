@@ -13,7 +13,6 @@ export const metadata: Metadata = {
   description: "An AI powered image generator",
 };
 
-//daily commit
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -22,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={cn("font-IBMPlex antialiased", IBMPlex.variable)}>
-        {children}
+        {children} .
       </body>
     </html>
   );
