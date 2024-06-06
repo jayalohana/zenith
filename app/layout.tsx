@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   title: "Zenith",
   description: "An AI powered image generator",
 };
+//comitt
 
 export default function RootLayout({
   children,
