@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Zenith",
   description: "An AI powered image generator",
 };
-//dai
+
 export default function RootLayout({
   children,
 }: Readonly<{
