@@ -18,4 +18,3 @@ export default Layout;
 //DAILY
 //DAILY
 //DAILY
-//DAILY
